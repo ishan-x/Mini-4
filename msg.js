@@ -2,7 +2,7 @@ const {
     proto,
     downloadContentFromMessage,
     getContentType
-} = require('dct-dev-private-baileys')
+} = require('dct-dula-baileys')
 const fs = require('fs')
 
 // --- Media Download Function ---
