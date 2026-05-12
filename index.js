@@ -2,7 +2,7 @@ const {
     downloadMediaMessage, 
     generateWAMessageFromContent, 
     proto 
-} = require('dct-dev-private-baileys');
+} = require('dct-dula-baileys');
 const express = require('express');
 const app = express();
 __path = process.cwd()
